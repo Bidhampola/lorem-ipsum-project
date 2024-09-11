@@ -1,0 +1,23 @@
+body{
+    background-color: #292f36;
+    color: #fff;
+    text-align: center;
+    margin: 50px auto;
+}
+
+button{
+    border: 2px solid #fff;
+    background-color: #292f36;
+    color: #fff;
+    height: 30px;
+    width: 90px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input{
+    border: 2px solid #fff;
+    background-color: #292f36;
+    color: #fff;
+    height: 20px;
+}
